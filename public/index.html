@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Contact Form</title>
+  <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+
+</head>
+<body class="bg-gray-100 flex items-center justify-center h-screen">
+  <form action="/contact" method="POST" class="bg-white p-6 rounded shadow-md w-96 space-y-4">
+    <input type="text" name="name" placeholder="Name" required class="w-full p-2 border rounded" />
+    <input type="email" name="email" placeholder="Email" required class="w-full p-2 border rounded" />
+    <textarea name="message" placeholder="Message" required class="w-full p-2 border rounded"></textarea>
+    <button type="submit" class="w-full bg-blue-500 text-white p-2 rounded">Send</button>
+  </form>
+</body>
+</html>
