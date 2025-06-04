@@ -4,7 +4,7 @@ A simple Node.js + Express web server project that serves a contact form, handle
 
 ## 🌐 Live Deployment
 
-- **Vercel Live Link**: [https://week14-class-task.vercel.app/](https://week14-class-task-3bwqhgbof.vercel.app)
+- **Vercel Live Link**: [https://week14-class-task.vercel.app/](https://week14-class-task.vercel.app/)
 - **GitHub Repository**: [https://github.com/pmchohan/IT310-week14-task](https://github.com/pmchohan/IT310-week14-task)
 
 ## 📁 Folder Structure
